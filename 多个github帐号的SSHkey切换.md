@@ -17,12 +17,12 @@
 `$ ssh-keygen -t rsa -C "youremail@xxx.com"`
 这次不要一路回车了，给这个文件起一个名字 不然默认的话就覆盖了之前生成的第一个
 
- ![img](多个github帐号的SSH key切换.assets/20150112153757353.png) 
+ ![img](多个github帐号的SSHkey切换.assets/20150112153757353.png) 
 
 
 假如起名叫my,目录结构如下：
 
- ![img](多个github帐号的SSH key切换.assets/20150112153832125) 
+ ![img](多个github帐号的SSHkey切换.assets/20150112153832125) 
 
 如果生成的第二个ssh key不在.ssh/下，可移动到此目录
 
@@ -46,9 +46,9 @@ Host名字随意，接下来会用到。
 
 ## 四、测试配置是否正确
 
- ![img](多个github帐号的SSH key切换.assets/20150112154208092) 
+ ![img](多个github帐号的SSHkey切换.assets/20150112154208092) 
 
- ![img](多个github帐号的SSH key切换.assets/20150112154217062) 
+ ![img](多个github帐号的SSHkey切换.assets/20150112154217062) 
 
 
 
